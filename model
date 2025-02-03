@@ -1,0 +1,3 @@
+phishing-detection-app/
+└── model/
+    └── phishing_model.pkl
