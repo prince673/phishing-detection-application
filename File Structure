@@ -1,0 +1,7 @@
+phishing-detection-app/
+│
+├── app.py
+├── train_model.py
+├── model/
+│   └── phishing_model.pkl
+├── requirements.txt
